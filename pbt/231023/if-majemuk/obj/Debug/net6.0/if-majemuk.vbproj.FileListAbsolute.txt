@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\bin\Debug\net6.0\if-majemuk.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\bin\Debug\net6.0\if-majemuk.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\bin\Debug\net6.0\if-majemuk.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\bin\Debug\net6.0\if-majemuk.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\bin\Debug\net6.0\if-majemuk.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\refint\if-majemuk.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\if-majemuk.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-majemuk\obj\Debug\net6.0\ref\if-majemuk.dll

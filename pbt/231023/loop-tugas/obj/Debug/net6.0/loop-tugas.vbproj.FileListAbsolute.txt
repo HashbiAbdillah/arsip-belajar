@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\bin\Debug\net6.0\loop-tugas.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\bin\Debug\net6.0\loop-tugas.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\bin\Debug\net6.0\loop-tugas.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\bin\Debug\net6.0\loop-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\bin\Debug\net6.0\loop-tugas.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\refint\loop-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\loop-tugas.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\loop-tugas\obj\Debug\net6.0\ref\loop-tugas.dll

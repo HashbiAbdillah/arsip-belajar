@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\bin\Debug\net6.0\hotel.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\bin\Debug\net6.0\hotel.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\bin\Debug\net6.0\hotel.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\bin\Debug\net6.0\hotel.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\bin\Debug\net6.0\hotel.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\refint\hotel.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\hotel.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\hotel\obj\Debug\net6.0\ref\hotel.dll

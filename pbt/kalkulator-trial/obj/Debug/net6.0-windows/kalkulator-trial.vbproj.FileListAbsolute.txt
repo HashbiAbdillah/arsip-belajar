@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\bin\Debug\net6.0-windows\kalkulator-trial.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\bin\Debug\net6.0-windows\kalkulator-trial.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\bin\Debug\net6.0-windows\kalkulator-trial.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\bin\Debug\net6.0-windows\kalkulator-trial.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\bin\Debug\net6.0-windows\kalkulator-trial.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator_trial.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\refint\kalkulator-trial.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\kalkulator-trial.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-trial\obj\Debug\net6.0-windows\ref\kalkulator-trial.dll

@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\bin\Debug\net6.0\kasirtoko.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\bin\Debug\net6.0\kasirtoko.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\bin\Debug\net6.0\kasirtoko.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\bin\Debug\net6.0\kasirtoko.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\bin\Debug\net6.0\kasirtoko.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\refint\kasirtoko.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\kasirtoko.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir-toko\obj\Debug\net6.0\ref\kasirtoko.dll

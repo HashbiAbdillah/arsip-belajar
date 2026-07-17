@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\bin\Debug\net6.0-windows\gaji.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\bin\Debug\net6.0-windows\gaji.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\bin\Debug\net6.0-windows\gaji.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\bin\Debug\net6.0-windows\gaji.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\bin\Debug\net6.0-windows\gaji.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\refint\gaji.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\gaji.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\gaji\obj\Debug\net6.0-windows\ref\gaji.dll

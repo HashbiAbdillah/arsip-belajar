@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\bin\Debug\net6.0\latihan-if.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\bin\Debug\net6.0\latihan-if.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\bin\Debug\net6.0\latihan-if.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\bin\Debug\net6.0\latihan-if.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\bin\Debug\net6.0\latihan-if.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\refint\latihan-if.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\latihan-if.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\latihan-if\obj\Debug\net6.0\ref\latihan-if.dll

@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\bin\Debug\net6.0-windows\form.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\bin\Debug\net6.0-windows\form.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\bin\Debug\net6.0-windows\form.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\bin\Debug\net6.0-windows\form.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\bin\Debug\net6.0-windows\form.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\refint\form.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\form.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\form\form\obj\Debug\net6.0-windows\ref\form.dll

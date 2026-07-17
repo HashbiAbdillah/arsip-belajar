@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\bin\Debug\net6.0\while-coba.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\bin\Debug\net6.0\while-coba.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\bin\Debug\net6.0\while-coba.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\bin\Debug\net6.0\while-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\bin\Debug\net6.0\while-coba.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\refint\while-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\while-coba.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\while-coba\obj\Debug\net6.0\ref\while-coba.dll

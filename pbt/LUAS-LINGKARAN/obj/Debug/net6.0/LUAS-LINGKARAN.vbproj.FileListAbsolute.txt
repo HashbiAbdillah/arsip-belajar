@@ -1,0 +1,4 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\LUAS-LINGKARAN\obj\Debug\net6.0\LUAS-LINGKARAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\LUAS-LINGKARAN\obj\Debug\net6.0\LUAS-LINGKARAN.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\LUAS-LINGKARAN\obj\Debug\net6.0\LUAS-LINGKARAN.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\LUAS-LINGKARAN\obj\Debug\net6.0\LUAS-LINGKARAN.vbproj.CoreCompileInputs.cache

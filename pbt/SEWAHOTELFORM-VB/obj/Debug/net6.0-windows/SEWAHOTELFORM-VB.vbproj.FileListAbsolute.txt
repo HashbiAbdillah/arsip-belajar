@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\bin\Debug\net6.0-windows\SEWAHOTELFORM-VB.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\bin\Debug\net6.0-windows\SEWAHOTELFORM-VB.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\bin\Debug\net6.0-windows\SEWAHOTELFORM-VB.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\bin\Debug\net6.0-windows\SEWAHOTELFORM-VB.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\bin\Debug\net6.0-windows\SEWAHOTELFORM-VB.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM_VB.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\refint\SEWAHOTELFORM-VB.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\SEWAHOTELFORM-VB.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\SEWAHOTELFORM-VB\obj\Debug\net6.0-windows\ref\SEWAHOTELFORM-VB.dll

@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\bin\Debug\net6.0\Harooo_eburinyan.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\bin\Debug\net6.0\Harooo_eburinyan.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\bin\Debug\net6.0\Harooo_eburinyan.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\bin\Debug\net6.0\Harooo_eburinyan.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\bin\Debug\net6.0\Harooo_eburinyan.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\refint\Harooo_eburinyan.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\Harooo_eburinyan.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\Harooo_eburinyan\obj\Debug\net6.0\ref\Harooo_eburinyan.dll

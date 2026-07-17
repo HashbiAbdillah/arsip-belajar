@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>BISMILLAH</h2>
+        <input type="number" id="angka1" placeholder="masukin dong ms">
+        <input type="number" id="angka2" placeholder="aku jga mw">
+        <div id="opsiOperasi">
+            <button onclick="hitung('tambah')">+</button>
+            <button onclick="hitung('kurang')">-</button>
+            <button onclick="hitung('kali')">*</button>
+            <button onclick="hitung('bagi')">÷</button>
+        </div>
+        <button onclick="ButtonHps()">HAPUS DEK</button>
+        <div id="hasil"></div>
+    </div>
+    <script>
+
+        function hitung(operasi){
+            const angka1 = parseFloat(document.getElementById("angka1").value);
+            const angka2 = parseFloat(document.getElementById("angka2").value);
+            let hasil;
+
+            if (isNaN(angka1) || isNaN(angka2)) {
+                hasil = "angka tidak valdi!"
+            } else {
+                switch(operasi){
+                    case 'tambah':
+                        hasil = angka1 + angka2;
+                        break;
+                    case 'kurang':
+                        hasil = angka1 - angka2;
+                        break;
+                    case 'kali':
+                        hasil = angka 1 * angka2;
+                        break;
+                    case 'bagi':
+                        hasil = angka2 !== 0 ? angka1 / angka2 : "Tidak bisa dibagi dengan 0";
+                        break;
+                    default:
+                        hasil = 'silahkan masukan angka yang benar!';
+                }
+            }
+            document.getElementById("hasil").innerText = "Hasil: " + hasil;
+
+        }
+
+        function ButtonHps(){
+            document.getElementById("angka1").value = "";
+            document.getElementById("angka2").value = "";
+            document.getElementById("hasil").innerText = "";
+        }
+
+        </script>
+</body>
+</html>

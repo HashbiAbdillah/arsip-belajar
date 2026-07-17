@@ -1,0 +1,17 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\bin\Debug\net6.0-windows\hello-sayangg.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\bin\Debug\net6.0-windows\hello-sayangg.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\bin\Debug\net6.0-windows\hello-sayangg.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\bin\Debug\net6.0-windows\hello-sayangg.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\bin\Debug\net6.0-windows\hello-sayangg.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello_sayangg.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\refint\hello-sayangg.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello-sayangg.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\ref\hello-sayangg.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\hello-sayangg\obj\Debug\net6.0-windows\hello_sayangg.Resources.resources

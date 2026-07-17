@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\bin\Debug\net6.0-windows\kalkulator2.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\bin\Debug\net6.0-windows\kalkulator2.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\bin\Debug\net6.0-windows\kalkulator2.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\bin\Debug\net6.0-windows\kalkulator2.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\bin\Debug\net6.0-windows\kalkulator2.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\refint\kalkulator2.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\kalkulator2.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator2\obj\Debug\net6.0-windows\ref\kalkulator2.dll

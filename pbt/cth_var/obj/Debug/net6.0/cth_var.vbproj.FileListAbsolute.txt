@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\bin\Debug\net6.0\cth_var.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\bin\Debug\net6.0\cth_var.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\bin\Debug\net6.0\cth_var.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\bin\Debug\net6.0\cth_var.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\bin\Debug\net6.0\cth_var.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\refint\cth_var.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\cth_var.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\cth_var\obj\Debug\net6.0\ref\cth_var.dll

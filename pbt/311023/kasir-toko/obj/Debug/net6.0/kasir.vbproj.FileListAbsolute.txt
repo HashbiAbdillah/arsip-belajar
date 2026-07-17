@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\bin\Debug\net6.0\kasir.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\bin\Debug\net6.0\kasir.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\bin\Debug\net6.0\kasir.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\bin\Debug\net6.0\kasir.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\bin\Debug\net6.0\kasir.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\refint\kasir.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\kasir.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\311023\kasir\obj\Debug\net6.0\ref\kasir.dll

@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\bin\Debug\net6.0\if-tugas.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\bin\Debug\net6.0\if-tugas.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\bin\Debug\net6.0\if-tugas.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\bin\Debug\net6.0\if-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\bin\Debug\net6.0\if-tugas.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\refint\if-tugas.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\if-tugas.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-tugas\obj\Debug\net6.0\ref\if-tugas.dll

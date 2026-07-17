@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "latihan_var", "latihan_var.vbproj", "{DB28B02D-0E48-4D14-A72F-3526F9AF4CDE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "if-tugas", "..\if-tugas\if-tugas.vbproj", "{787672A3-1136-4C19-AF76-D84A5A3D630D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB28B02D-0E48-4D14-A72F-3526F9AF4CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB28B02D-0E48-4D14-A72F-3526F9AF4CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB28B02D-0E48-4D14-A72F-3526F9AF4CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB28B02D-0E48-4D14-A72F-3526F9AF4CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787672A3-1136-4C19-AF76-D84A5A3D630D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787672A3-1136-4C19-AF76-D84A5A3D630D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787672A3-1136-4C19-AF76-D84A5A3D630D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787672A3-1136-4C19-AF76-D84A5A3D630D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2FC5EF-8254-4D50-833A-3C6268E482B0}
+	EndGlobalSection
+EndGlobal

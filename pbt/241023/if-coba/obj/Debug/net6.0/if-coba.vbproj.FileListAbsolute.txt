@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\bin\Debug\net6.0\if-coba.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\bin\Debug\net6.0\if-coba.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\bin\Debug\net6.0\if-coba.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\bin\Debug\net6.0\if-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\bin\Debug\net6.0\if-coba.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\refint\if-coba.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\if-coba.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-coba\obj\Debug\net6.0\ref\if-coba.dll

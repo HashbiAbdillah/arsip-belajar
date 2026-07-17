@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\bin\Debug\net6.0\simple_kalkulator.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\bin\Debug\net6.0\simple_kalkulator.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\bin\Debug\net6.0\simple_kalkulator.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\bin\Debug\net6.0\simple_kalkulator.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\bin\Debug\net6.0\simple_kalkulator.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\refint\simple_kalkulator.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\simple_kalkulator.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\simple_kalkulator\obj\Debug\net6.0\ref\simple_kalkulator.dll

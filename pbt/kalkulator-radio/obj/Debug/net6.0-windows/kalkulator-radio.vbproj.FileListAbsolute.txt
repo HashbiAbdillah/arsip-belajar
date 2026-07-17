@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\bin\Debug\net6.0-windows\kalkulator-radio.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\bin\Debug\net6.0-windows\kalkulator-radio.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\bin\Debug\net6.0-windows\kalkulator-radio.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\bin\Debug\net6.0-windows\kalkulator-radio.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\bin\Debug\net6.0-windows\kalkulator-radio.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator_radio.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\refint\kalkulator-radio.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\kalkulator-radio.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\kalkulator-radio\obj\Debug\net6.0-windows\ref\kalkulator-radio.dll

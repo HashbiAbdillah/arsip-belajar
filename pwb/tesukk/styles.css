@@ -1,0 +1,102 @@
+.inputan {
+    color: #121212;
+    background-color: #a8e6cf; /* Mengubah background menjadi hijau */
+    width: 100vh;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 10px 0;
+}
+
+.inputan:focus {
+    outline: none;
+    border-color: #3f6cff;
+    box-shadow: 0 0 5px rgba(63, 108, 255, 0.5);
+}
+.begron{
+    background-image: url("https://media.tenor.com/wGOHcanZgCgAAAAM/memes-feliz-noche.gif");
+    background-size:auto;
+}
+.hehe{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #121212;
+}
+.card-body{
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+
+}
+.glassmorphism{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    color: #000;
+    background-image: url("https://media.tenor.com/aaEMtGfZFbkAAAAj/rat-spinning.gif");
+    background-size: contain;
+
+}
+.hihi {
+    background-color: #6b6b6b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f9f6ff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.hihi:hover {
+    background-color: #3f6cff;
+}
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        justify-content: center;
+        display: flex;
+        background-color: rgba(85, 135, 179, 0.671);
+        align-items: center;
+        padding-top: 30%;
+    }
+
+    .container {
+        border-radius: 12px;
+        background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    #opsiOperasi {
+        border-radius: 7px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    button {
+        background-color: tomato;
+        color: black;
+        border-radius: 20px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    #hasil {
+        margin-top: 10px;
+        margin-top: 10px;
+    }
+
+    .container input{
+        background-color: #8a858533;
+        font-size: 5vh;
+        width: 90%;
+        border: 1px solid #333;
+        border: 20px;
+    }

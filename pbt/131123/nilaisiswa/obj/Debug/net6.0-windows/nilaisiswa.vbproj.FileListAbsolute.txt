@@ -1,0 +1,16 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\bin\Debug\net6.0-windows\nilaisiswa.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\bin\Debug\net6.0-windows\nilaisiswa.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\bin\Debug\net6.0-windows\nilaisiswa.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\bin\Debug\net6.0-windows\nilaisiswa.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\bin\Debug\net6.0-windows\nilaisiswa.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.Form1.resources
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.vbproj.GenerateResource.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\refint\nilaisiswa.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\nilaisiswa.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\131123\nilaisiswa\obj\Debug\net6.0-windows\ref\nilaisiswa.dll

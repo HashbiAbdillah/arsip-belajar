@@ -1,0 +1,14 @@
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\bin\Debug\net6.0\if-then-else.exe
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\bin\Debug\net6.0\if-then-else.deps.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\bin\Debug\net6.0\if-then-else.runtimeconfig.json
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\bin\Debug\net6.0\if-then-else.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\bin\Debug\net6.0\if-then-else.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.AssemblyInfoInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.AssemblyInfo.vb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.vbproj.CoreCompileInputs.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\refint\if-then-else.dll
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.pdb
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\if-then-else.genruntimeconfig.cache
+C:\Users\Hasbi\Documents\tugaas tugas\pbt\231023\if-then-else\obj\Debug\net6.0\ref\if-then-else.dll
